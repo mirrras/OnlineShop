@@ -1,6 +1,6 @@
 package com.gmail.merikbest2015.ecommerce.constants;
 
-public class ErrorMessage {
+public class    ErrorMessage {
     public static final String CAPTCHA_ERROR = "Fill captcha";
     public static final String EMAIL_NOT_FOUND = "Email not found";
     public static final String PASSWORDS_DO_NOT_MATCH = "Passwords do not match.";

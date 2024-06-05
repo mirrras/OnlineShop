@@ -1,11 +1,6 @@
 # :hibiscus: Perfume web store
-
-This E-commerce project built on Spring Boot.<br>
-Deployed on Amazon web services EC2.<br>
-See demo below.
-
-User credentials:<br>
-Login: test123@test.com <br>
+User credentials:
+Login: test123@test.com
 Password: admin
 
 Admin credentials:<br>
@@ -13,7 +8,6 @@ Login: admin@gmail.com <br>
 Password: admin
 
 ## Used Technologies:
-
 * Spring (Boot, Data, Security)
 * JPA / Hibernate
 * PostgreSQL
